@@ -9,8 +9,7 @@ I am a fullstack software test automation engineer.
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-k-3a094b19a/)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16539293/basak-kurt?tab=profile)
-[!Twitter: VPA] (https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fragnarwolf1907)
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-k-3a094b19a/)
+[![Twitter: VPA](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fragnarwolf1907)]
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ekremkurt1907@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://ekremkurt1907.medium.com/)
 
