@@ -8,8 +8,7 @@ I am a fullstack software test automation engineer.
 
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-k-3a094b19a/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16539293/basak-kurt?tab=profile)
-[![Twitter: VPA](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fragnarwolf1907)]
+[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16545731/ekrem-kurt)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ekremkurt1907@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://ekremkurt1907.medium.com/)
 
@@ -24,11 +23,11 @@ I am a fullstack software test automation engineer.
 <a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="selenium" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" alt="cypress" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://v6.webdriver.io/img/webdriverio.png" alt="webdriverIO" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://icon2.cleanpng.com/20180704/how/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3410aa17.8035340015307364360683.jpg" alt="appium" height="60"/> </a>
 
 
 
 ## 💻 Backend 
-
 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" alt="postman" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" height="50"/> </a>
