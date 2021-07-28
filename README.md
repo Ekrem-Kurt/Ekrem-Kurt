@@ -9,7 +9,7 @@ I am a fullstack software test automation engineer.
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-k-3a094b19a/)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16539293/basak-kurt?tab=profile)
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fragnarwolf1907
+[!Twitter: VPA] (https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fragnarwolf1907)
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-k-3a094b19a/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ekremkurt1907@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://ekremkurt1907.medium.com/)
@@ -59,16 +59,5 @@ https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_teams_logo_icon_145726.png" height="30"/> </a>
 
 
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ekrem-Kurt&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekrem-Kurt&theme=buefy&" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekrem-Kurt&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
 
-![](https://komarev.com/ghpvc/?username=Ekrem-Kurt)
-
-
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=BasakKurtLab)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekrem-Kurt)](https://github.com/anuraghazra/github-readme-stats)
 
